@@ -14,12 +14,12 @@ npm run build
 npm run build --report
 ```
 ## Link demo: 
-[https://vue-pwa-144fe.firebaseapp.com](https://vue-pwa-144fe.firebaseapp.com)
+
 
 ## API
 [https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/wwwid](https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/wwwid)
 
-## Teknologi Stack yang digunakan:
+## Teknologi :
 
 - Vue.js (Library)
 - Vuex (State Management)
