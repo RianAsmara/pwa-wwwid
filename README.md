@@ -1,16 +1,21 @@
-# WWWID Challenge
+# pwa-wwwid
 
-Vue PWA for WWWID Challenge
+> A Vue.js project
 
-## Link demo: 
+## Build Setup
 
+``` bash
+# install dependencies
+npm install
 
-## API
-[https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/wwwid](https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/wwwid)
+# serve with hot reload at localhost:8080
+npm run dev
 
-## Stack yang digunakan:
+# build for production with minification
+npm run build
 
-- Vue.js (Library)
-- Vuex (State Management)
-- Vue Router (Router)
-- Webpack (Bundler)
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
